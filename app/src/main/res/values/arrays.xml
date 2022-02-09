@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="loading_background_images">
+        <item>@drawable/i_os_bg_pelican</item>
+        <item>@drawable/i_os_bg_fox</item>
+        <item>@drawable/i_os_bg_elephant</item>
+    </array>
+
+    <array name="loading_baby_images">
+        <item>@drawable/baby_image_blue</item>
+        <item>@drawable/baby_image_green</item>
+        <item>@drawable/baby_image_yellow</item>
+    </array>
+
+    <array name="loading_camera_icon_images">
+        <item>@drawable/camera_icon_blue</item>
+        <item>@drawable/camera_icon_green</item>
+        <item>@drawable/camera_icon_yellow</item>
+    </array>
+
+    <array name="loading_background_color">
+        <item>@color/blue_app_background</item>
+        <item>@color/green_app_background</item>
+        <item>@color/yellow_app_background</item>
+    </array>
+    <array name="loading_border_color">
+        <item>@color/blue_image_stroke</item>
+        <item>@color/green_image_stroke</item>
+        <item>@color/yellow_image_stroke</item>
+    </array>
+    <array name="loading_app_background">
+        <item>@drawable/background_blue</item>
+        <item>@drawable/background_blue</item>
+        <item>@drawable/background_blue</item>
+    </array>
+    <array name="loading_numbers">
+        <item>@drawable/number_0</item>
+        <item>@drawable/number_1</item>
+        <item>@drawable/number_2</item>
+        <item>@drawable/number_3</item>
+        <item>@drawable/number_4</item>
+        <item>@drawable/number_5</item>
+        <item>@drawable/number_6</item>
+        <item>@drawable/number_7</item>
+        <item>@drawable/number_8</item>
+        <item>@drawable/number_9</item>
+        <item>@drawable/number_10</item>
+        <item>@drawable/number_11</item>
+        <item>@drawable/number_12</item>
+    </array>
+</resources>

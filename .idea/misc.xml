@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/baby_image_blue.xml" value="0.1655" />
+        <entry key="app/src/main/res/layout/activity_birth_day.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/age_text_layout.xml" value="0.3640625" />
+        <entry key="app/src/main/res/layout/arrow_back_btn_layout.xml" value="0.3640625" />
+        <entry key="app/src/main/res/layout/baby_image_layout.xml" value="0.3640625" />
+        <entry key="app/src/main/res/layout/birthday_layout.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/camera_icon_layout.xml" value="0.30833333333333335" />
+        <entry key="app/src/main/res/layout/share_btn_layout.xml" value="0.3640625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

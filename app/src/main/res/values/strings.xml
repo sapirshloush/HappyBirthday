@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+    <string name="show_birthday_screen">Show Birthday Screen</string>
+    <string name="app_title">Happy Birthday!</string>
+    <string name="user_name">Enter a name</string>
+    <string name="today_cristiano_ronaldo_is">TODAY CRISTIANO RONALDO IS</string>
+    <string name="share_the_news">Share the news</string>
+    <string name="month_old">MONTH OLD!</string>
+    <string name="choose_picture">Choose picture</string>
+    <string name="years_old">YEARS OLD</string>
+</resources>
